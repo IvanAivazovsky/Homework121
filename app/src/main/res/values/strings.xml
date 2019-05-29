@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Homework121</string>
+    <string name="с">Подписка:</string>
+    <string name="as">Подписка</string>
+    <string name="as1">Имя пользователя:</string>
+    <string name="as2">Электронная почта:</string>
+</resources>
